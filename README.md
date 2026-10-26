@@ -1,2 +1,1 @@
-# Design-of-5T-OTA-and-2-Stage-Operational-Amplifier
-Design of 5T OTA and 2-Stage Operational Amplifier
+google slide - https://docs.google.com/presentation/d/10MKNyBkHoVQf3A_FUt-ZXBzEA7c1XBHt/edit?slide=id.p3#slide=id.p3
